@@ -5,11 +5,11 @@ nav {
   padding-top: 3rem;
   background-color: #f7f7f7ee;
 }
-body {
-  background-color: white;
-}
 #projects {
   background-color: #f7f7f7ee;
+}
+#contact {
+  background-color: white;
 }
 footer {
   padding-bottom: 20px;
